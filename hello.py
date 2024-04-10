@@ -1,1 +1,1 @@
-asdf nopu
+print('Hello, World!')
